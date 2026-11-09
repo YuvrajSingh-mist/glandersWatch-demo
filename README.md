@@ -38,6 +38,7 @@ src/
   12_export_matrix_xlsx.py  inspection workbook
   13_country_level_model.py country-level supplementary model
   14_year_target.py         year-as-target experiment (negative result)
+  15_make_deck.py           builds the presentation from reports/*.json (reports not versioned)
   00_novelty_audit.py       prior-art query audit
   01b_fetch_europepmc_expanded.py, run_nasa.py
 ```
